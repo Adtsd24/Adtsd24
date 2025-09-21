@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi!
+
+Not a very interesting profile, I know...
+Uh, I am not the most creative person.
 
 <!--
 **Adtsd24/Adtsd24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
